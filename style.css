@@ -1,0 +1,21 @@
+table {
+    border-collapse: collapse;
+}
+
+td {
+    width: 80px;
+    height: 80px;
+    
+    border: 1px solid blue;
+    
+    cursor: pointer;
+    text-align: center;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
